@@ -8,8 +8,13 @@ This workflow assumes you have a functioning installation of [Anaconda](https://
 
 This workflow also assumes that you have installed `pip` to the virtual environment you are working with. If this is not the case, follow the instructions below to first install `pip` (using the `conda install` option in step 2).
 
-1. Activate the virtual environment you are working in:\
+1. Activate the virtual environment you are working in:
+
+   For Mac terminal or Git Bash:\
    `source activate <virtual_environment_name>`
+
+   For Anaconda Prompt:\
+   `activate <virtual_environment_name>`
 
 2. Install the package using conda if possible:\
    `conda install <package_name>`
