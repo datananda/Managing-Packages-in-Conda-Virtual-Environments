@@ -52,7 +52,7 @@ As an example, consider the [gmaps](https://jupyter-gmaps.readthedocs.io/en/stab
 Here are some useful commands for troubleshooting when things go squirrely.
 
 Q: What virtual environments do I have and which one am I in?\
-A: List all the virtual environments you have and their directories (the activated environment is indicated with a * in the print out):\
+A: List all virtual environments and their directories (the activated environment is indicated with a * in the print out):\
 `conda info --envs`
 
 Q: How do I know what packages I have installed?\
