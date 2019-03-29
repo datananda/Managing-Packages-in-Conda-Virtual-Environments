@@ -1,4 +1,4 @@
-# Managing Packages in Conda Virtual Environments
+# :snake: Managing Packages in Conda Virtual Environments
 A straightforward how-to guide for managing Python packages in conda virtual environments for use in [Jupyter Notebook](http://jupyter.org/).
 
 *NOTE: Execute the code snippets below in your terminal of choice, making sure to replace anything between `< ... >` with the relevant info for your set-up.*
